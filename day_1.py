@@ -47,22 +47,3 @@ print(city_name)
 pet_name = input("What's your pet name?\n")
 print(pet_name)
 print("Your band could be " + city_name + " " + pet_name)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
